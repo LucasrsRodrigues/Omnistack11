@@ -35,7 +35,11 @@
       <h1>modules</h1>
     </div>
     <div class="wrapper-modules">
-      
+      <ul>
+        <li>Express</li>
+        <li>React Navigation</li>
+        <li>Expo</li>
+      </ul>
     </div>
   </div>
 </body>
